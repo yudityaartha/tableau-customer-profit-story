@@ -50,8 +50,8 @@ This report was designed for **non-technical stakeholders** (e.g., sales execs, 
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ❌ **High discounts don't always yield profit**                               | Top 3 customers with avg. discounts > 45% (e.g., Thais Sissman at 70%) still generated **low or even negative** profit margins |
 | ❗ **Several customers with discounts are unprofitable**                      | Customers like Tom Prescott and Anthony Garverick received 46%+ discounts yet caused **significant losses** (red bars)         |
-| 🟦 **Total Profit = \$286,347.00**                                           | Shown in a large KPI card — but your callout text clarifies it's mostly driven by **non-discounted sales**                     |
-| ⚖️ **Total Profit With Discount: –\$27,713 vs. Without Discount: \$311,958** | Powerful bottom insight — discounts are cannibalizing actual net profit rather than boosting revenue volume                    |
+| 🟦 **Total Profit = \$286,347.00**                                           | It's mostly driven by **non-discounted sales**                     |
+| ⚖️ **Total Profit With Discount: –\$27,713 vs. Without Discount: \$311,958** | Discounts are reducing actual net profit rather than boosting revenue volume                    |
 
 ---
 
