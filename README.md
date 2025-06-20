@@ -36,7 +36,7 @@ This report was designed for **non-technical stakeholders** (e.g., sales execs, 
 - **Tab 4**: Customer Ranking by Avg. Discount 
 - **Tab 5**: Customer State Data
 ![main](visuals/Profit_vs_Discount.png)
-![main](visuals/PatternofDiscount.png)
+![main](visuals/Pattern_of_Discount.png)
 ---
 
 ## 🔗 Live Dashboard
