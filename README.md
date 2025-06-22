@@ -62,3 +62,11 @@ This project showcases my ability to:
 - Design stakeholder-driven BI dashboards
 - Use Tableau Stories and actions for interactivity
 - Communicate profitability drivers in clear, visual terms
+
+--- 
+
+## Author
+
+**Yuditya Artha**  
+Data Analyst | SQL | Python | R | Power BI | Tableau  
+[LinkedIn](https://www.linkedin.com/in/yuditya-artha) | [GitHub](https://github.com/yudityaartha)
