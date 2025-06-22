@@ -1,6 +1,6 @@
-# 📊 Tableau Story: Customer Profitability & Discount Impact
+# Tableau Story: Customer Profitability & Discount Impact
 
-## 🧠 Objective
+## Objective
 This interactive Tableau story was built for business stakeholders at a fictional retail company, seeking to understand **how discounting affects customer profitability** and to identify **top-performing vs underperforming customers**.
 
 The dashboard explores:
@@ -10,15 +10,15 @@ The dashboard explores:
 
 ---
 
-## 👨‍💼 Audience
+## Audience
 This report was designed for **non-technical stakeholders** (e.g., sales execs, finance managers), emphasizing **clarity**, **color signaling**, and **interactive filtering**.
 
 ---
 
-## 🎨 Key Design Choices
+## Key Design Choices
 
 1. **Color-coded Profit Ratio**  
-   Red for negative, blue for positive — immediate visual cue for decision makers.
+   Red for negative, blue for positive - immediate visual cue for decision makers.
 
 2. **Customer-level Filtering with Actions**  
    Allows stakeholders to zoom in on a single customer and track how their discount behavior impacts profit.
@@ -28,7 +28,7 @@ This report was designed for **non-technical stakeholders** (e.g., sales execs, 
 
 ---
 
-## 📊 Visual Structure
+## Visual Structure
 
 - **Tab 1**: Introduction
 - **Tab 2**: Profit and Discount for Selected Customers  
@@ -44,7 +44,7 @@ This report was designed for **non-technical stakeholders** (e.g., sales execs, 
 🌐 [View Tableau Public Dashboard](https://public.tableau.com/views/FinalTableauCourseraProject/PatternofDiscount?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
-## 🧠 Insights
+## Insights
 
 
 | Insight                                                                      | Evidence                                                                                                                       |
@@ -56,7 +56,7 @@ This report was designed for **non-technical stakeholders** (e.g., sales execs, 
 
 ---
 
-## 🏁 Outcome
+## Outcome
 
 This project showcases my ability to:
 - Design stakeholder-driven BI dashboards
